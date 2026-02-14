@@ -1,4 +1,4 @@
-# 📊 Zoom Daily Stats
+# 📊 Zoom Daily Statistics
 
 Zoom Daily Stats is a Python-based automation tool that fetches, processes, and generates daily meeting statistics from Zoom data.
 
